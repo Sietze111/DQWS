@@ -20,8 +20,8 @@ export default function Home() {
                     can be used in GeoVisia.
                 </p>
                 <p className={styles.text}>
-                    In below map, layers can be enabled and disabled to check
-                    content and current status of operation.
+                    In the map below, layers can be enabled and disabled to
+                    check content and current status of operation.
                 </p>
                 <p className={styles.text}>
                     Only one layer can be enabled at a time.
