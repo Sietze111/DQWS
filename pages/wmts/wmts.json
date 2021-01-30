@@ -9,7 +9,7 @@
     {
         "id": 1,
         "name": "Agrarisch Areaal Nederland",
-        "url": "https://geodata.nationaalgeoregister.nl/tiles/service/wmts/aan/EPSG:28992/{z}/{x}/{y}.png"",
+        "url": "https://geodata.nationaalgeoregister.nl/tiles/service/wmts/aan/EPSG:28992/{z}/{x}/{y}.png",
         "omschrijving": "Agraric Map",
         "leverancier": "Nationaal Georegister"
     },
