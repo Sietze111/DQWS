@@ -1,0 +1,72 @@
+[
+    {
+        "id": 0,
+        "name": "Basisregistratie Topografie (BRT)",
+        "url": "https://geodata.nationaalgeoregister.nl/tiles/service/wmts/brtachtergrondkaart/EPSG:28992/{z}/{x}/{y}.png",
+        "omschrijving": "Topografic map",
+        "leverancier": "Nationaal Georegister"
+    },
+    {
+        "id": 1,
+        "name": "Agrarisch Areaal Nederland",
+        "url": "https://www.openbasiskaart.nl/mapcache/demo/wmts/EPSG:28992/{z}/{x}/{y}.png",
+        "omschrijving": "Public map",
+        "leverancier": "Openbasiskaart"
+    },
+    {
+        "id": 2,
+        "name": "Luchtfoto actueel",
+        "url": "https://geodata.nationaalgeoregister.nl/luchtfoto/rgb/wmts/Actueel_ortho25/EPSG:28992/{z}/{x}/{y}.png",
+        "omschrijving": "Satelite imagery",
+        "leverancier": "Nationaal Georegister"
+    },
+    {
+        "id": 3,
+        "name": "Algemene hoogtekaart Nederland (AHN)",
+        "url": "https://geodata.nationaalgeoregister.nl/tiles/service/wmts/ahn3_05m_dsm/EPSG:28992/{z}/{x}/{y}.png",
+        "omschrijving": "Heigth map 0.5m accuracy",
+        "leverancier": "Nationaal Georegister"
+    },
+    {
+        "id": 4,
+        "name": "TOP250",
+        "url": "https://geodata.nationaalgeoregister.nl/tiles/service/wmts/top250raster/EPSG:28992/{z}/{x}/{y}.png",
+        "omschrijving": "Topographic map",
+        "leverancier": "Nationaal Georegister"
+    },
+    {
+        "id": 5,
+        "name": "BGT achtergrond",
+        "url": "https://geodata.nationaalgeoregister.nl/tiles/service/wmts/bgtachtergrond/EPSG:28992/{z}/{x}/{y}.png",
+        "omschrijving": "Map of objects",
+        "leverancier": "Nationaal Georegister"
+    },
+    {
+        "id": 6,
+        "name": "Natura 2000",
+        "url": "https:nu.nl",
+        "omschrijving": "https://geodata.nationaalgeoregister.nl/tiles/service/wmts/natura2000/EPSG:28992/{z}/{x}/{y}.png",
+        "leverancier": "Nationaal Georegister"
+    },
+    {
+        "id": 7,
+        "name": "OpenTopo",
+        "url": "https://geodata.nationaalgeoregister.nl/tiles/service/wmts/opentopo/EPSG:28992/{z}/{x}/{y}.png",
+        "omschrijving": "Topographic map",
+        "leverancier": "Nationaal Georegister"
+    },
+    {
+        "id": 8,
+        "name": "Top10NL",
+        "url": "https://geodata.nationaalgeoregister.nl/tiles/service/wmts/top10nlv2/EPSG:28992/{z}/{x}/{y}.png",
+        "omschrijving": "Topographic map",
+        "leverancier": "Nationaal Georegister"
+    },
+    {
+        "id": 9,
+        "name": "Basisregistratie Adressen en Gebouwen (BAG)",
+        "url": "https://geodata.nationaalgeoregister.nl/tiles/service/wmts/bag/EPSG:28992/{z}/{x}/{y}.png",
+        "omschrijving": "Public map",
+        "leverancier": "Nationaal georegister"
+    }
+]
