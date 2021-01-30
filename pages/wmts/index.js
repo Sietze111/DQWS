@@ -1,4 +1,4 @@
-import styles from '../../styles/Ninjas.module.css';
+import styles from '../../styles/Wmts.module.css';
 import Link from 'next/link';
 import dataset from './wmts.json';
 import Head from 'next/head';
