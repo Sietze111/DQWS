@@ -10,8 +10,8 @@
         "id": 1,
         "name": "Agrarisch Areaal Nederland",
         "url": "https://www.openbasiskaart.nl/mapcache/demo/wmts/EPSG:28992/{z}/{x}/{y}.png",
-        "omschrijving": "Public map",
-        "leverancier": "Openbasiskaart"
+        "omschrijving": "Agraric Map",
+        "leverancier": "Nationaal Georegister"
     },
     {
         "id": 2,
