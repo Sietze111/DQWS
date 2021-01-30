@@ -27,8 +27,8 @@ export default function Home() {
                     Only one layer can be enabled at a time.
                 </p>
                 <p className={styles.text}>
-                    Some layers have a either a minimum or maximum zoom level
-                    and will disappear when zoomed beyond those.
+                    Some layers have either a minimum or maximum zoom level and
+                    will disappear when zoomed beyond those.
                 </p>
 
                 <Link href="/wmts/">
